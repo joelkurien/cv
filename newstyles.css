@@ -1,0 +1,131 @@
+body{
+	margin: 0;
+	font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+	font-size: 1.6em;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+.container{
+	height: 700px;
+	position: relative;
+	padding-top:100px;
+	text-align: center;
+	position: relative;
+	background-color: #d1f5d3;
+}
+.cloud1{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.cloud2{
+	position: absolute;
+	left: 300px;
+	bottom: 480px;
+}
+.mountain{
+	width:800px;
+	margin: auto;
+	position: absolute;
+	bottom: 5px;
+	right: 350px;
+}
+.boy{
+	text-decoration: underline;
+}
+hr{
+	margin-left: 500px;
+	margin-right: 500px;
+	border-color: grey;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom-style: dotted;
+	border-width: 20px;
+}
+h1{
+	color: #66BFBF;
+	font-size: 5.5rem;
+	font-family: 'Titillium Web', sans-serif;
+	padding-top: 50px;
+	margin:0 auto 0 auto;
+}
+h2{
+	color: #66BFBF;
+	font-size: 2.5rem;
+	font-family: 'Slabo 27px', serif;
+	font-weight: normal;
+	line-height: 2;
+	margin:0 auto 0 auto;
+}
+.bottom{ 
+	margin: 50px;
+	text-align: center; 
+	color: #11999E;
+}
+h3{
+	margin: auto;
+	color: #11999E;
+}
+p{
+	font-size: 20px;
+	margin: auto;
+}
+.middle_container{
+	text-align: left;
+	line-height: 2;
+	width: 50%;
+	margin: 100px auto;
+}
+a{
+	color: #11999E;
+	text-decoration: none;
+}
+.middle_container1{
+	text-align: left;
+	line-height: 2;
+	width: 50%;
+	margin: 100px auto;
+}
+.middle_container2{
+	text-align: left;
+	line-height: 2;
+	width: 50%;
+	margin: 100px auto;
+}
+.me{
+	width: 25%;
+	margin-right: 20px;
+	float: left;
+}
+.computer{
+	width: 25%;
+	margin-left: 20px;
+	float: right;
+}
+.extra{
+	width: 25%;
+	margin-right: 20px;
+	float: left;
+}
+.bottom_container{
+	background-color: #4cd3c2;
+	position: relative;
+}
+h4{
+	padding-top: 10px;
+	color: #00909e;
+}
+.insta{
+	width: 50px;
+	padding-right: 20px;
+}
+.twitter{
+	width: 50px;
+}
+.linkedin{
+	width: 50px;
+	padding-left: 10px;
+}
